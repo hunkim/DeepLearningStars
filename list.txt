@@ -6,3 +6,10 @@ https://github.com/jcjohnson/neural-style
 https://github.com/google/deepdream
 https://github.com/fchollet/keras
 https://github.com/Rochester-NRT/RocAlphaGo
+https://github.com/karpathy/char-rnn
+https://github.com/hunkim/word-rnn-tensorflow
+https://github.com/karpathy/neuraltalk
+https://github.com/tflearn/tflearn
+https://github.com/tensorflow/playground
+https://github.com/pkmital/tensorflow_tutorials
+https://github.com/openai/gym
