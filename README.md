@@ -13,6 +13,6 @@ Please update list.txt (via pull requests)
 | [TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) | 3556 | A list of popular github projects related to deep learning
 | [TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) | 3111 | Simple tutorials using Google's TensorFlow Framework
 
-Last Automatic Update: Sat Jan 28 00:03:33 2017
+Last Automatic Update: Sat Jan 28 00:05:22 2017
 
 Inspired by https://github.com/aymericdamien/TopDeepLearning

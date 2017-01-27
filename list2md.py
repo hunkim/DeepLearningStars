@@ -14,7 +14,7 @@ head = '# Top Deep Learning Projects\n' \
         '| ------- | ------ | ------ |\n'
 
 tail = '\nLast Automatic Update: ' + time.strftime("%c") + \
-       '\nInspired by https://github.com/aymericdamien/TopDeepLearning'
+       '\n\nInspired by https://github.com/aymericdamien/TopDeepLearning'
 
 with open("list.txt") as f:
     list = f.readlines()
