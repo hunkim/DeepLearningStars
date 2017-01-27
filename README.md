@@ -14,4 +14,5 @@ Please update list.txt (via pull requests)
 | [TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) | 3111 | Simple tutorials using Google's TensorFlow Framework
 
 Last Automatic Update: Sat Jan 28 00:03:33 2017
+
 Inspired by https://github.com/aymericdamien/TopDeepLearning
