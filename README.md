@@ -4,7 +4,7 @@ Please update list.txt (via pull requests)
 
 | Project Name| Stars | Description 
 | ------- | ------ | ------  
-| [tensorflow](https://github.com/tensorflow/tensorflow) | 44104 | Computation using data flow graphs for scalable machine learning |  
+| [tensorflow](https://github.com/tensorflow/tensorflow) | 44106 | Computation using data flow graphs for scalable machine learning |  
 | [caffe](https://github.com/BVLC/caffe) | 15605 | Caffe: a fast open framework for deep learning. |  
 | [neural-style](https://github.com/jcjohnson/neural-style) | 12491 | Torch implementation of neural style algorithm |  
 | [keras](https://github.com/fchollet/keras) | 11615 | Deep Learning library for Python. Convnets, recurrent neural networks, and more. Runs on Theano or TensorFlow. |  
@@ -15,11 +15,11 @@ Please update list.txt (via pull requests)
 | [tflearn](https://github.com/tflearn/tflearn) | 4668 | Deep learning library featuring a higher-level API for TensorFlow. |  
 | [playground](https://github.com/tensorflow/playground) | 4148 | Play with neural networks! |  
 | [neuraltalk](https://github.com/karpathy/neuraltalk) | 3974 | NeuralTalk is a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences. |  
-| [TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) | 3556 | A list of popular github projects related to deep learning |  
+| [TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) | 3557 | A list of popular github projects related to deep learning |  
 | [TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) | 3111 | Simple tutorials using Google's TensorFlow Framework |  
 | [tensorflow_tutorials](https://github.com/pkmital/tensorflow_tutorials) | 3016 | From the basics to slightly more interesting applications of Tensorflow |  
 | [word-rnn-tensorflow](https://github.com/hunkim/word-rnn-tensorflow) | 284 | Multi-layer Recurrent Neural Networks (LSTM, RNN) for word-level language models in Python using TensorFlow. |  
 
-Last Automatic Update: Sat Jan 28 00:28:39 2017
+Last Automatic Update: Sat Jan 28 00:40:09 2017
 
 Inspired by https://github.com/aymericdamien/TopDeepLearning
