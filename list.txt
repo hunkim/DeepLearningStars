@@ -1,0 +1,8 @@
+https://github.com/aymericdamien/TopDeepLearning
+https://github.com/nlintz/TensorFlow-Tutorials/
+https://github.com/tensorflow/tensorflow
+https://github.com/BVLC/caffe
+https://github.com/jcjohnson/neural-style
+https://github.com/google/deepdream
+https://github.com/fchollet/keras
+https://github.com/Rochester-NRT/RocAlphaGo
