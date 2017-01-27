@@ -10,8 +10,8 @@ result=[]
 head = '# Top Deep Learning Projects\n' \
         'A list of popular github projects related to deep learning (ranked by stars automatically).\n'\
         'Please update list.txt (via pull requests)\n\n' \
-        '| Project Name| Stars | Description | Updated/Created\n' \
-        '| ------- | ------ | ------ | ------ \n'
+        '| Project Name| Stars | Description \n' \
+        '| ------- | ------ | ------  \n'
 
 tail = '\nLast Automatic Update: ' + time.strftime("%c") + \
        '\n\nInspired by https://github.com/aymericdamien/TopDeepLearning'
@@ -49,5 +49,6 @@ with open("README.md", 'w') as out:
         out.write('| [' +
                   repos['name'] + '](' + repos['url']  + ') | ' +
                   xstr(repos['stars']) + ' | ' + xstr(repos['description']) + ' | ' +
-                  xstr(repos['updated']) + ' / ' + xstr(repos['created']) + ' \n')
+                  # xstr(repos['updated']) + ' / ' + xstr(repos['created']) +
+                  ' \n')
     out.write(tail)
