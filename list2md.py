@@ -1,5 +1,6 @@
 import cgitb
 import requests
+import time
 import config as cf
 
 cgitb.enable(format='text')
@@ -12,7 +13,8 @@ head = '# Top Deep Learning Projects\n' \
         '| Project Name| Stars | Description |\n' \
         '| ------- | ------ | ------ |\n'
 
-tail = '\nInspired by https://github.com/aymericdamien/TopDeepLearning'
+tail = '\nLast Automatic Update: ' + time.strftime("%c") + \
+       '\nInspired by https://github.com/aymericdamien/TopDeepLearning'
 
 with open("list.txt") as f:
     list = f.readlines()
