@@ -14,4 +14,4 @@ https://github.com/tensorflow/playground
 https://github.com/pkmital/tensorflow_tutorials
 https://github.com/openai/gym
 https://github.com/hunkim/DeepLearningStars
-https://github.com/ujjwalkarn/Machine-Learning-Tutorials#deep
+https://github.com/ujjwalkarn/Machine-Learning-Tutorials
