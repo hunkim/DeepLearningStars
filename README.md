@@ -16,7 +16,6 @@ Please update list.txt (via pull requests)
 | [tflearn](https://github.com/tflearn/tflearn) | 4676 | Deep learning library featuring a higher-level API for TensorFlow. |  
 | [tflearn](https://github.com/tflearn/tflearn) | 4676 | Deep learning library featuring a higher-level API for TensorFlow. |  
 | [playground](https://github.com/tensorflow/playground) | 4154 | Play with neural networks! |  
-| [playground](https://github.com/tensorflow/playground) | 4154 | Play with neural networks! |  
 | [neuraltalk](https://github.com/karpathy/neuraltalk) | 3977 | NeuralTalk is a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences. |  
 | [Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) | 3583 | machine learning and deep learning tutorials, articles and other resources  |  
 | [TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) | 3561 | A list of popular github projects related to deep learning |  
@@ -26,6 +25,6 @@ Please update list.txt (via pull requests)
 | [tensorflow-aws-ami](https://github.com/ritchieng/tensorflow-aws-ami) | 47 | A TensorFlow Amazon Web Service (AWS) AMI that is open, free and works. Run TensorFlow in less than 5 minutes. TensorFlow, Keras, OpenAI Gym and all dependencies. |  
 | [DeepLearningStars](https://github.com/hunkim/DeepLearningStars) | 16 | Top Stared Deep Learning Projects |  
 
-Last Automatic Update: Sat Jan 28 20:46:58 2017
+Last Automatic Update: Sat Jan 28 20:48:47 2017
 
 Inspired by https://github.com/aymericdamien/TopDeepLearning
