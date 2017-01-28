@@ -1,5 +1,6 @@
 # Top Deep Learning Projects
 A list of popular github projects related to deep learning (ranked by stars automatically).
+
 Please update list.txt (via pull requests)
 
 | Project Name| Stars | Description 
@@ -19,8 +20,8 @@ Please update list.txt (via pull requests)
 | [TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) | 3111 | Simple tutorials using Google's TensorFlow Framework |  
 | [tensorflow_tutorials](https://github.com/pkmital/tensorflow_tutorials) | 3017 | From the basics to slightly more interesting applications of Tensorflow |  
 | [word-rnn-tensorflow](https://github.com/hunkim/word-rnn-tensorflow) | 284 | Multi-layer Recurrent Neural Networks (LSTM, RNN) for word-level language models in Python using TensorFlow. |  
-| [DeepLearningStars](https://github.com/hunkim/DeepLearningStars) | 0 | Top Stared Deep Learning Projects |  
+| [DeepLearningStars](https://github.com/hunkim/DeepLearningStars) | 1 | Top Stared Deep Learning Projects |  
 
-Last Automatic Update: Sat Jan 28 09:21:30 2017
+Last Automatic Update: Sat Jan 28 09:22:20 2017
 
 Inspired by https://github.com/aymericdamien/TopDeepLearning
