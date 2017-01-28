@@ -8,7 +8,7 @@ cgitb.enable(format='text')
 result=[]
 
 head = '# Top Deep Learning Projects\n' \
-        'A list of popular github projects related to deep learning (ranked by stars automatically).\n'\
+        'A list of popular github projects related to deep learning (ranked by stars automatically).\n\n'\
         'Please update list.txt (via pull requests)\n\n' \
         '| Project Name| Stars | Description \n' \
         '| ------- | ------ | ------  \n'
