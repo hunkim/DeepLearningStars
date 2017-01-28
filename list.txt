@@ -16,5 +16,4 @@ https://github.com/openai/gym
 https://github.com/hunkim/DeepLearningStars
 https://github.com/ujjwalkarn/Machine-Learning-Tutorials
 https://github.com/tflearn/tflearn
-https://github.com/tensorflow/playground
 https://github.com/ritchieng/tensorflow-aws-ami
