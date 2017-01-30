@@ -18,3 +18,6 @@ https://github.com/ujjwalkarn/Machine-Learning-Tutorials
 https://github.com/tflearn/tflearn
 https://github.com/ritchieng/tensorflow-aws-ami
 https://github.com/nivwusquorum/tensorflow-deepq
+https://github.com/sjchoi86/Tensorflow-101
+https://github.com/donnemartin/data-science-ipython-notebooks
+https://github.com/karpathy/convnetjs
