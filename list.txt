@@ -21,3 +21,4 @@ https://github.com/nivwusquorum/tensorflow-deepq
 https://github.com/sjchoi86/Tensorflow-101
 https://github.com/donnemartin/data-science-ipython-notebooks
 https://github.com/karpathy/convnetjs
+https://github.com/taizan/PaintsChainer
