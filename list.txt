@@ -25,3 +25,6 @@ https://github.com/taizan/PaintsChainer
 https://github.com/pytorch/pytorch
 https://github.com/baidu/Paddle
 https://github.com/zsdonghao/tensorlayer
+https://github.com/Theano/Theano
+https://github.com/Microsoft/CNTK
+https://github.com/torch/torch7
