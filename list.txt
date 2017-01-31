@@ -22,3 +22,6 @@ https://github.com/sjchoi86/Tensorflow-101
 https://github.com/donnemartin/data-science-ipython-notebooks
 https://github.com/karpathy/convnetjs
 https://github.com/taizan/PaintsChainer
+https://github.com/pytorch/pytorch
+https://github.com/baidu/Paddle
+https://github.com/zsdonghao/tensorlayer
