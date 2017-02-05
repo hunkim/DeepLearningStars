@@ -29,3 +29,4 @@ https://github.com/Theano/Theano
 https://github.com/Microsoft/CNTK
 https://github.com/torch/torch7
 https://github.com/dmlc/mxnet
+https://github.com/awjuliani/DeepRL-Agents
