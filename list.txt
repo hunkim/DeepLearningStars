@@ -1,4 +1,5 @@
 https://github.com/aymericdamien/TopDeepLearning
+https://github.com/hunkim/DeepLearningZeroToAll
 https://github.com/nlintz/TensorFlow-Tutorials/
 https://github.com/tensorflow/tensorflow
 https://github.com/BVLC/caffe
