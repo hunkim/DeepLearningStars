@@ -16,7 +16,6 @@ https://github.com/pkmital/tensorflow_tutorials
 https://github.com/openai/gym
 https://github.com/hunkim/DeepLearningStars
 https://github.com/ujjwalkarn/Machine-Learning-Tutorials
-https://github.com/tflearn/tflearn
 https://github.com/ritchieng/tensorflow-aws-ami
 https://github.com/nivwusquorum/tensorflow-deepq
 https://github.com/sjchoi86/Tensorflow-101
@@ -31,3 +30,11 @@ https://github.com/Microsoft/CNTK
 https://github.com/torch/torch7
 https://github.com/dmlc/mxnet
 https://github.com/awjuliani/DeepRL-Agents
+https://github.com/tiny-dnn/tiny-dnn
+https://github.com/caffe2/caffe2
+https://github.com/NervanaSystems/neon
+https://github.com/pfnet/chainer
+https://github.com/zer0n/deepframeworks
+https://github.com/floydhub/dl-docker
+https://github.com/deeplearning4j/deeplearning4j
+https://github.com/Swift-AI/Swift-AI
