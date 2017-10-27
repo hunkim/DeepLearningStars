@@ -39,3 +39,4 @@ https://github.com/floydhub/dl-docker
 https://github.com/deeplearning4j/deeplearning4j
 https://github.com/Swift-AI/Swift-AI
 https://github.com/buriburisuri/speech-to-text-wavenet
+https://github.com/pjreddie/darknet/
