@@ -46,6 +46,7 @@ Please update list.txt (via pull requests)
 | [word-rnn-tensorflow](https://github.com/hunkim/word-rnn-tensorflow) | 592 | Multi-layer Recurrent Neural Networks (LSTM, RNN) for word-level language models in Python using TensorFlow. |  
 | [DeepLearningStars](https://github.com/hunkim/DeepLearningStars) | 207 | Top Deep Learning Projects based on their Stars! |  
 | [dlami](https://github.com/ritchieng/dlami) | 185 | A Deep Learning Amazon Web Service (AWS) AMI that is open, free and works. Run in less than 5 minutes. TensorFlow, Keras, PyTorch, Theano, MXNet, CNTK, Caffe and all dependencies. |  
+| [DALL-E] (https://github.com/openai/DALL-E) the official PyTorch package for the discrete VAE used for DALL·E. The transformer used to generate the images from the text is not part of this code release.
 
 Last Automatic Update: Mon Sep  4 14:03:33 2017
 
